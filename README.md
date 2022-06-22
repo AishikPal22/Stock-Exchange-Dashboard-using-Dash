@@ -8,7 +8,7 @@ Dash is an open-source web framework for creating analytical dashboards and data
 
 Procedure:
 1. Create a virtual environment and install the following python libraries:
-  i) Dash- Dash is an open-source python library developed by Plotly under MIT license. It is freely available for building beautiful dashboards quickly.
+  i) Dash- Dash is an open-source python library developed by Plotly under MIT license. It is freely available for building beautiful dashboards quickly.   
   ii) Pandas- Pandas is a python library used for data manipulation operations. It acts as a wrapper on two other libraries: matplotlib for data visualization and NumPy for performing mathematical operations on datasets.
 2. Download the files to any directory
 3. Open the terminal from that directory and execute the following code: python app.py
