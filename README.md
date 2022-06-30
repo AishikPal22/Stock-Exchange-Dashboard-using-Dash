@@ -6,8 +6,9 @@ Dash is an open-source web framework for creating analytical dashboards and data
 2. Flask-  It is a web framework used for providing the dashboard as a web service request.
 3. React.js- It is used to provide user interfaces for the dashboard.
 
-Procedure:
-1. Create a virtual environment and install the following python libraries: (i) Dash- Dash is an open-source python library developed by Plotly under MIT license. It is freely available for building beautiful dashboards quickly.   (ii) Pandas- Pandas is a python library used for data manipulation operations. It acts as a wrapper on two other libraries: matplotlib for data visualization and NumPy for performing mathematical operations on datasets.
-2. Download the files to any directory
-3. Open the terminal via virtual environment and execute the following code: python app.py
-4. The live development server gets started at localhost:8050.
+## Procedure:
+1. Download the .zip file and extract it to any directory.
+2. Open the terminal and type `python3 -m venv venv && source venv/bin/activate` to create and activate the virtual environment.
+3. Upgrade pip. Then type `pip install dash pandas` to install the required libraries.
+4. Type `python app.py`.
+5. The live development server gets started at localhost:8050.
